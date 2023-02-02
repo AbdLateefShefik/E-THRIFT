@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\Application.csproj": {
+    "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,21 +53,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Application\\Application.csproj"
+              "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Application\\Application.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

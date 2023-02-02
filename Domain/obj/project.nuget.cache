@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MxI230Q2SP/NELuiCUhgnrCC7Q5LJstL/A+DXigRg4X81R9iDJvhkyZdoK5UVeIDWzY6aUdfzZqSmH/Y7E8SQ==",
+  "dgSpecHash": "auU4Zj824YIaXHQrQQfZIlGk9LIpMv/CAtC/Jb6SovPRQYqCfxhdnwUyWwUtjXCuXoEM950+l5LZMpJnvyhkOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\E-Thrift\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\E-ThriftManagement\\E-Thrift\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
